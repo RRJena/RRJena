@@ -6,6 +6,9 @@
 -
 <a> Blog: http://www.rrjprince.com/ </a>
 -
+-
+<a> Linkedin: https://www.linkedin.com/in/rrjprince/ </a>
+-
 Email: rrjprince@rrjprince.com
        rakeshranjanjena007@gmail.com
 -
