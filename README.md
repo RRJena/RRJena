@@ -3,7 +3,11 @@
 - 🌱 I’m currently learning by Doing and Practising
 - 💞️ I’m looking to collaborate on things that would create a Positive Impact on Everyting in this world
 - 📫 How to reach me ...
--<a> http://www.rrjprince.com/ </a>
+-
+<a> http://www.rrjprince.com/ </a>
+-
+Email: rrjprince@rrjprince.com
+       rakeshranjanjena007@gmail.com
 - 
 Experienced Manager, Engineer, Developer and Educator with a demonstrated history of working in the Development sector and primary/secondary/ Senior education industry. 
 Skilled in Integrated Design, Robotics & Embedded System Development, STEAM, Web Technology & Web App Development, Software Engineering, Design Life Cycle, SDLC 
