@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on things that would create a Positive Impact on Everyting in this world
 - 📫 How to reach me ...
 -
-<a> http://www.rrjprince.com/ </a>
+<a> Blog: http://www.rrjprince.com/ </a>
 -
 Email: rrjprince@rrjprince.com
        rakeshranjanjena007@gmail.com
