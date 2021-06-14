@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RRJ
+- 👋 Hi, I’m @RRJ 
 - 👀 I’m interested in Everything That I LOVE and Passionate About
 - 🌱 I’m currently learning by Doing and Practising
 - 💞️ I’m looking to collaborate on things that would create a Positive Impact on Everyting in this world
