@@ -9,8 +9,6 @@
 Email: rrjprince@rrjprince.com
        rakeshranjanjena007@gmail.com
 -
-<marquee>HELLO</marquee>
--
 Intro:
 -
 Experienced Manager, Engineer, Developer and Educator with a demonstrated history of working in the Development sector and primary/secondary/ Senior education industry. 
