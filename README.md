@@ -19,4 +19,4 @@ Skilled in Integrated Design, Robotics & Embedded System Development, STEAM, Web
 and Computer Science . Strong Industry professional with a Master of Computer Applications (M.C.A.), Robotics & Embedded System Development, Microsoft Virtual Academy Certified 
 for Various Computer Programming Languages, focused in Computer System Development from Gayatri Vidya Parishad College of Engineering(A).
 
-                                                                      <-- THANK YOU FOR VISINTING !-->
+                                                                <-- THANK YOU FOR VISINTING !-->
