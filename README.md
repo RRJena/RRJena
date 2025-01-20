@@ -29,49 +29,14 @@ I am an experienced **Manager, Engineer, Developer, and Educator** with a strong
 
 ---
 
-### 💡 Key Skills  
-
-#### **Programming & Development**  
-- Python, Java, JavaScript, C/C++, C#  
-- HTML, CSS, React, Angular, Node.js  
-- Embedded C, Microcontroller Programming  
-
-#### **Software & System Design**  
-- System Design and Architecture  
-- Object-Oriented Programming (OOP)  
-- Agile Methodologies and DevOps  
-
-#### **Robotics & Embedded Systems**  
-- IoT Systems  
-- Arduino, Raspberry Pi, ESP32, ARM Cortex  
-- Robotics Process Automation (RPA)  
-
-#### **Web & Cloud Technologies**  
-- Full-Stack Development  
-- REST APIs, GraphQL  
-- AWS, Azure, Google Cloud Platform  
-
-#### **Data & AI**  
-- Machine Learning and AI Algorithms  
-- Data Analysis and Visualization  
-- Tools: TensorFlow, Keras, Pandas, NumPy  
-
-#### **Education & Training**  
-- Designing STEAM Curricula  
-- Conducting Robotics and Embedded Systems Workshops  
-- Mentoring and Skill Development  
-
----
-
 ## 🎓 Education  
 
-- **Master of Computer Applications (M.C.A.)**  
-  Specialization in **Robotics & Embedded System Development**  
-  Gayatri Vidya Parishad College of Engineering (A)  
+- **Master of Computer Applications (M.C.A.)**   
+  From Gayatri Vidya Parishad College of Engineering (A)  
 
 - **Certifications:**  
-  - Microsoft Virtual Academy – Certified in multiple programming languages  
-  - Specialized Training in Robotics and AI Systems  
+  - Certified in multiple programming languages  
+  - Specialized Training in Robotics and Embedded Systems  
 
 ---
 
