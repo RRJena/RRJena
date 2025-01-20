@@ -10,7 +10,7 @@
 - **Blog:** [www.rrjprince.com](http://www.rrjprince.com/)  
 - **LinkedIn:** [linkedin.com/in/rrjprince](https://www.linkedin.com/in/rrjprince/)  
 - **Email:**  
-  - [rrjprince@rrjprince.com](mailto:rrjprince@rrjprince.com)  
+  - [asrrjprince@gmail.com](mailto:asrrjprince@gmail.com)  
   - [rakeshranjanjena007@gmail.com](mailto:rakeshranjanjena007@gmail.com)  
 
 ---
